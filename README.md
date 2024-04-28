@@ -1,4 +1,4 @@
-<h1> CS-360-Project-3</h1>
+<h1 align='center'> CS-360-Project-3</h1>
 <h2 align='center'> Jesse Draper</h2>
 <p align='center'>SNHU</p>
 <p align='center'>
