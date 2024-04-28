@@ -1,8 +1,8 @@
 # CS-360-Project-3
 <h1> Jesse Draper</h1>
 <h2>SNHU</h2>
-![androidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![androidStudio]({https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white})
+![Java]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white})
 
 
 ## Description
