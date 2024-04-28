@@ -14,7 +14,7 @@
 ## Description
 This project was designed to implement knowledge regarding Android Studio. Learning layout formatting as well as implementing methodology into a fullstack android application. SQlite packages allow us to generate a database with tables for accessing the users and inventory in the database. We can also allow permissions for SMS notificatinos to notify users of low inventory quantity. This was the first fullstack experience I have had in this IDE and OOP language so it was fun to learn how to implement what I have learned in this course.
 <br>
-<img align='center' src="register.png" />
+<img justify-content='center' src="register.png" />
 <br>
 
 ## Usage
